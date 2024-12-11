@@ -1,0 +1,14 @@
+create suit and card pairs *
+
+takes starting bet
+loop from here 
+shuffles cards
+deals 2 cards to player and dealer
+player options
+    -"hit", "stand", "double down", "split", or "surrender"
+if dealer < 16 hit: else: stand
+if hand is over 21: "bust:
+if player_hand > dealer_hand: player wins
+if hands == tie
+if player_hand < dealer_hand: dealer wins
+
